@@ -1,2 +1,2 @@
-# trabalho
-este é meu primeiro repositório no GitHub.
+# Me chamo Richarlyson do IFMA
+Este é meu primeiro repositório criado na aula de informática no GitHub.
